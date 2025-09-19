@@ -2,7 +2,7 @@
 
 ## 1\. Introduction
 
-The Centre for Collective Intelligent Design at Nesta delivers online and in-person workshops to let the public deliberate and be polled on topics and policy measures. We have developed a platform called Zeitgeist which helps us to carry out this work by using content hosting (video, text, images) for explaining policy issues; with interactive polling features and real-time group-level results. It is used to support facilitated deliberation of small groups; with functionality to support in-person and remote participation. Zeitgeist analyses certain data collected from those workshops to inform and provide recommendations for the topic or policies being discussed. This privacy notice together with the workshop information sheet explains how we collect and use your personal data when you participate in our workshops and use Zeitgeist.
+The Centre for Collective Intelligence at Nesta delivers online and in-person workshops to let the public deliberate and be polled on topics and policy measures. We have developed a platform called Zeitgeist which helps us to carry out this work by using content hosting (video, text, images) for explaining policy issues; with interactive polling features and real-time group-level results. It is used to support facilitated deliberation of small groups; with functionality to support in-person and remote participation. Certain data collected from those workshops is analysed to inform and provide recommendations for the topic or policies being discussed. This privacy notice together with the workshop information sheet explains how we collect and use your personal data when you participate in our workshops and use Zeitgeist.
 
 ## 2\. Contact details
 
@@ -19,7 +19,6 @@ If you are unhappy about how we use your personal data or have a complaint, you 
 ## 3\. What personal data will we collect?
 
 1. **Identifiable data**
-
    - Display name
 
      When participating in a workshop and using Zeitgeist you will be invited to provide a display name. This is to facilitate the delivery of the workshop but it will not be stored by Zeitgeist after the end of the workshop session.
@@ -28,18 +27,15 @@ If you are unhappy about how we use your personal data or have a complaint, you 
 
      You will have the option to provide your email address when using Zeitgeist. This could be for the purposes of receiving invitations to other workshop sessions in the future, to sign up to receive marketing emails from us (see section 5 below) or to sign up to receive a participation voucher (where applicable).
 
-In addition, we may collect the following additional data from you which is collected and stored in a **non-identifiable** way. This means that it is either entirely anonymous, or it is collected in a manner that means we know that the data belongs to a specific individual but we cannot identify that the individual is you.
+In addition, we may collect the following additional data from you which is collected and stored in a **non-identifiable** way. This means that it is either entirely anonymous, or it is psuedo-anonymised (i.e. the data collected in a manner that means we know that the data belongs to a specific individual but we cannot identify that the individual is you).
 
 2. **Non-identifiable data**
-
    - Non-identifiable workshop session data including:
-
      - Recordings and transcriptions of discussions
 
      - Responses to questions about your policy opinions
 
    - Certain non-identifiable demographic information. The categories of demographic information may change depending on the focus of the workshop session and examples are listed below. Please see the workshop information sheet for more information about the non-identifiable demographic data that will be collected.
-
      - Ethnicity
 
      - Age range
@@ -49,7 +45,6 @@ In addition, we may collect the following additional data from you which is coll
 We may also collect the following technical data about your connection and device to help us diagnose issues and improve the performance of Zeitgeist.
 
 3. **Usage Data**
-
    - IP address
 
    - Browser type
@@ -64,9 +59,11 @@ We may also collect the following technical data about your connection and devic
 
 The purpose for which we are processing your data is to carry out the workshops and analysis explained in the workshop information sheet, and to learn how best to improve the Zeitgeist product. We use Zeitgeist to help us to carry out this work.
 
+We may also use the data for wider research purposes and we will have appropriate safeguards in place to respect your rights and freedoms when we do this. For example we will will only retain your data for research purposes in either an anonymised form (i.e. so all identifying information is removed) or in a psuedo-anonymised form (i.e. the data is collected in a manner that means we know that the data belongs to a specific individual but we cannot identify that the individual is you).
+
 Data protection law requires us to have a specific legal basis for processing your personal data.
 
-Our lawful basis for using your data will be our legitimate business interest in running the workshop and carrying out analysis described in the workshop information sheet. This project advances our organisation’s aims including undertaking innovative research, evaluation and information activities that will deliver social impact.
+Our lawful basis for using your data will be our legitimate business interest in running the workshop and carrying out analysis described in the workshop information sheet and the wider research. This project advances our organisation’s aims including undertaking innovative research, evaluation and information activities that will deliver social impact.
 
 In addition:
 
@@ -89,6 +86,8 @@ If you no longer want to receive marketing communications from us, you can unsub
 Your information will be accessed by a limited number of researchers and advisors in our project team working on this project.
 
 Where we are carrying out this project in collaboration with other organisations, we may share your data with those organisations for the purposes of the project and you will be notified of this in the workshop information sheet.
+
+Where we are carrying out wider research in collaboration with other organisations, we may share your data with those organisations for the purposes of that research but we will ensure that appropriate safeguards are in place to respect your rights and freedoms when we do this. For example, your data will only be shared for wider research purposes in either an anonymised form (i.e. so all identifying information is removed) or in a psuedo-anonymised form (i.e. the data is collected in a manner that means we know that the data belongs to a specific individual but we cannot identify that the individual is you).
 
 In addition, we may disclose your information to third parties in connection with the purposes of processing your personal data set out in this notice. These third parties may include:
 
@@ -117,7 +116,6 @@ We take reasonable steps to protect your personal information and follow procedu
 Taking the above factors into consideration, our anticipated date of deletion for your personal data is:
 
 - **Identifiable data**
-
   - Display Name
 
     This is only used during your participation in the workshop session and is deleted as soon as you disconnect from the Zeitgeist platform after ending your participation in the workshop session.
@@ -130,7 +128,7 @@ Taking the above factors into consideration, our anticipated date of deletion fo
 
 - **Non-identifiable data**
 
-  We retain the non-identifiable data (including non-identifiable workshop session data and non-identifiable demographic data) indefinitely for research and statistical purposes. You cannot be identified using this data and so we may use this in the future without further notice to you.
+  We retain the non-identifiable data (including non-identifiable workshop session data and non-identifiable demographic data) indefinitely for research and statistical purposes. We will ensure that appropriate safeguards are in place to respect your rights and freedoms when we do this. For example, your data will only be retained in either an anonymised form (i.e. so all identifying information is removed) or in a psuedo-anonymised form (i.e. the data is collected in a manner that means we know that the data belongs to a specific individual but we cannot identify that the individual is you).
 
 - **Usage data**
 
@@ -158,7 +156,7 @@ Under certain circumstances, you have rights under data protection laws in relat
 
 If you wish to exercise any of the rights set out above, please send your specific request to the Data Protection Officer using the contact details provided at section 2.
 
-It is important to understand that the extent to which these rights apply to research will vary and that in some circumstances your rights may be restricted. Please also note that we can only comply with a request to exercise your rights during the period for which we hold personal information that identifies you. If personal data has been irreversibly anonymised and has become part of the research data set, it will not be possible for us to comply.
+It is important to understand that the extent to which these rights apply to research will vary and that in some circumstances your rights may be restricted. Please also note that we can only comply with a request to exercise your rights during the period for which we hold personal information that identifies you.
 
 ## 11\. Changes to this Notice
 
