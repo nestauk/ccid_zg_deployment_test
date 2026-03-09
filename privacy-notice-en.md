@@ -1,6 +1,8 @@
 # Zeitgeist Privacy Notice
 
-> **Please note:** For each workshop, there are specific additions to the privacy information, which are available in the workshop information sheet.
+## Workshops-specific privacy information
+
+> Specific details regarding data processing, storage, and retention for this project are outlined in the accompanying Participant Information Sheet. Please refer to that document for a breakdown of how your information will be handled during these sessions. **In the event of any inconsistency between this Privacy Notice and the Participant Information Sheet, the Participant Information Sheet will prevail.**
 
 The workshop information sheet for your workshop is either available through Zeitgeist as a link you can click from the link to your workshop, or by email. You can request a copy at: [workshop.support@nesta.org.uk](workshop.support@nesta.org.uk)
 
